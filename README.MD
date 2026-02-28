@@ -1,25 +1,5 @@
 # 快速开始
 
-<cite>
-**本文引用的文件**
-- [package.json](file://package.json)
-- [vite.config.ts](file://vite.config.ts)
-- [tsconfig.json](file://tsconfig.json)
-- [index.html](file://index.html)
-- [src/main.ts](file://src/main.ts)
-- [src/App.vue](file://src/App.vue)
-- [src/views/Home.vue](file://src/views/Home.vue)
-- [src/composables/useCrypto.ts](file://src/composables/useCrypto.ts)
-- [src/composables/useHistory.ts](file://src/composables/useHistory.ts)
-- [src/core/registry/AlgorithmRegistry.ts](file://src/core/registry/AlgorithmRegistry.ts)
-- [src/core/base/CryptoAlgorithm.ts](file://src/core/base/CryptoAlgorithm.ts)
-- [src/algorithms/index.ts](file://src/algorithms/index.ts)
-- [src/algorithms/hash/MD5.ts](file://src/algorithms/hash/MD5.ts)
-- [src/algorithms/symmetric/AES.ts](file://src/algorithms/symmetric/AES.ts)
-- [src/components/crypto/AlgorithmSelector.vue](file://src/components/crypto/AlgorithmSelector.vue)
-- [src/components/crypto/InputArea.vue](file://src/components/crypto/InputArea.vue)
-</cite>
-
 ## 目录
 1. [简介](#简介)
 2. [项目结构](#项目结构)
@@ -370,4 +350,5 @@ M --> A["src/App.vue<br/>根组件"]
 - [src/core/base/CryptoAlgorithm.ts](file://src/core/base/CryptoAlgorithm.ts#L1-L165)
 - [src/algorithms/index.ts](file://src/algorithms/index.ts#L1-L59)
 - [src/composables/useCrypto.ts](file://src/composables/useCrypto.ts#L1-L217)
+
 - [package.json](file://package.json#L1-L27)
